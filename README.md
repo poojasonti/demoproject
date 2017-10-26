@@ -1,2 +1,2 @@
 # demoproject
-Demo repo
+Demo repo for fun.
